@@ -34,6 +34,8 @@ Este é um slider de filmes simples criado com HTML, CSS e JavaScript, apresenta
 - `styles.css`: Arquivo CSS para estilizar a aparência da aplicação.
 - `script.js`: Arquivo JavaScript para a lógica de interação do slider.
 
+[Demo](https://slide-fetch-studioghibli.vercel.app/).
+
 ## Aviso de Direitos Autorais
 
 As imagens utilizadas neste projeto foram obtidas no Pinterest. Abaixo estão os links diretos das imagens e os perfis dos seguidores nos quais peguei as imagens:
