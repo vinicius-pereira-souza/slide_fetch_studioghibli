@@ -1,0 +1,39 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "Viagem de chihiro",
+      "synopsis": "'A Viagem de Chihiro' é uma obra-prima da animação japonesa dirigida por Hayao Miyazaki. A história segue Chihiro, uma garota corajosa que, ao se perder em um misterioso mundo espiritual, embarca em uma jornada para salvar seus pais, que foram transformados em porcos. Ao longo de sua jornada, Chihiro encontra criaturas mágicas, enfrenta desafios assustadores e descobre sua própria força interior. O filme é uma emocionante saga sobre crescimento pessoal, coragem e a importância de nunca perder a esperança, mesmo nos momentos mais sombrios."
+    },
+    {
+      "id": 2,
+      "title": "Ponyo: Uma Amizade que Veio do Mar",
+      "synopsis": "'Ponyo: Uma Amizade que Veio do Mar' é um personagem fictício do universo de Kirby, uma popular série de videogames da Nintendo. Poyo é uma estrela rosa, redonda e fofinha, com habilidades de absorção que lhe permitem copiar os poderes de seus inimigos. Ele é o protagonista da série e é conhecido por sua personalidade inocente e alegre. Poyo viaja por mundos coloridos, enfrentando desafios e inimigos para proteger seu lar, Dream Land, e seus amigos. Sua aparência fofa e suas aventuras divertidas o tornaram um querido ícone dos videogames."
+    },
+    {
+      "id": 3,
+      "title": "O Serviço de Entregas da Kiki",
+      "synopsis": "'O Serviço de Entregas da Kiki' geralmente se refere a Kiki - A Aprendiz de Feiticeira, um filme de animação japonês dirigido por Hayao Miyazaki, produzido pelo Studio Ghibli. A história segue Kiki, uma jovem bruxa de treze anos que parte em uma jornada de independência, seguindo a tradição de sua família. Com seu gato preto falante, Jiji, Kiki se estabelece em uma cidade costeira e abre um serviço de entrega voadora em sua vassoura mágica. O filme é uma celebração da amadurecimento, amizade e auto-descoberta, capturando a magia e os desafios da transição para a idade adulta."
+    },
+    {
+      "id": 4,
+      "title": "Meu Amigo Totoro",
+      "synopsis": "'Meu Amigo Totoro' uma criação de Hayao Miyazaki, é uma encantadora história sobre duas irmãs, Satsuki e Mei, que se mudam para o campo com seu pai em busca de tranquilidade durante um momento difícil. Lá, elas descobrem um mundo de magia habitado por criaturas adoráveis, incluindo Totoro, um espírito da floresta. O filme celebra a inocência da infância, a conexão com a natureza e os laços familiares, envolvendo os espectadores em um mundo de maravilhas e aventuras atemporais."
+    },
+    {
+      "id": 5,
+      "title": "Princesa Mononoke",
+      "synopsis": "'Princesa Mononoke' dirigido por Hayao Miyazaki, é uma saga épica ambientada em um Japão medieval mítico, onde humanos e deuses da floresta lutam pelo equilíbrio ecológico. O filme segue Ashitaka, um jovem príncipe marcado por uma maldição, enquanto ele busca resolver o conflito entre os espíritos da floresta e a expansão humana. Em sua jornada, Ashitaka encontra a corajosa guerreira San, conhecida como Princesa Mononoke, e descobre uma complexa teia de interesses ecológicos e humanos. Com sua animação deslumbrante e narrativa profundamente envolvente, 'Princesa Mononoke' questiona as consequências da ambição desenfreada e celebra a conexão entre os seres vivos e seu ambiente."
+    },
+    {
+      "id": 6,
+      "title": "Vidas ao Vento",
+      "synopsis": "'Vidas ao Vento' dirigido por Hayao Miyazaki, conta a história de Jiro Horikoshi, um jovem talentoso apaixonado pela aviação, ambientado no período entre as duas guerras mundiais. O filme retrata sua jornada de sonhos, desafios e amor, enquanto ele busca alcançar suas aspirações de projetar belas aeronaves, apesar das adversidades históricas e pessoais. Com uma animação deslumbrante e uma narrativa emocionante, 'Vidas ao Vento' é uma reflexão sobre a paixão pela criação e a fragilidade da vida diante das turbulências do mundo."
+    },
+    {
+      "id": 7,
+      "title": "O Castelo Animado",
+      "synopsis": "'A O Castelo Animado' uma obra-prima dirigida por Hayao Miyazaki, segue as aventuras de Sophie, uma jovem transformada em uma idosa pela bruxa do desperdício. Ao buscar uma cura, ela encontra o Castelo Animado, lar do misterioso e carismático mago Howl. Sophie se torna a governanta do castelo e, junto com Howl e seus excêntricos companheiros, enfrenta desafios mágicos e políticos. O filme é uma mistura encantadora de fantasia, romance e reflexão sobre a natureza humana, apresentando uma narrativa cativante e uma animação deslumbrante que captura a imaginação do público de todas as idades."
+    }
+  ]
+}
